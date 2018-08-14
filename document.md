@@ -27,7 +27,7 @@ DirectCoin은 대한민국의 가난한 사람들을 구제하기 위해 만들�
 다이어그램
 ----
 
-![kakaotalk_20180813_190854901](https://user-images.githubusercontent.com/16622219/44025998-98d7bea2-9f2c-11e8-8d55-3bd280a649a4.png)
+![1](https://user-images.githubusercontent.com/17183234/44064865-67da925e-9fa2-11e8-827d-50aa8aed97fc.png)
 
 2.거래소에서 DirectCoin 환전
 
